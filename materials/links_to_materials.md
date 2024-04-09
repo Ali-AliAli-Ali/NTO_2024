@@ -1,0 +1,1 @@
+[Натурные измерения](https://engstroy.spbstu.ru/userfiles/files/2014/4(48)/06.pdf)
