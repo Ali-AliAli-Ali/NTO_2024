@@ -1,0 +1,9 @@
+geopandas
+requests
+# pydantic
+# pyhumps
+matplotlib
+# rasterio
+tqdm
+numpy
+pandas
